@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CryptoTracker</string>
+    <string name="price">Price</string>
+    <string name="market_cap">Market Cap</string>
+    <string name="change_in_last_24_hr">Change in last 24 hr %1$s</string>
+</resources>
